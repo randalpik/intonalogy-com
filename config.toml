@@ -1,0 +1,64 @@
+baseURL = "http://intonalogy.com/"
+languageCode = "en-us"
+title = "Intonalogy"
+author = "Max Randal"
+googleAnalytics = ""
+theme = "terrassa"
+enableRobotsTXT = true
+
+[params]
+  description = "Information about the cross-platform ear training app Intonalogy."
+  favicon = "favicon.ico"
+  logo = ""
+
+[params.contact]
+  email = "intonalogy@gmail.com"
+
+[params.form] # Contact form
+  netlify = true
+  action = "https://formspree.io/f/mzbybqnj"
+  method = "POST"
+  inputNameName = "name"
+  inputNameLabel = "Name"
+  inputNamePlaceholder = "Your name"
+  inputEmailName = "_replyto"
+  inputEmailLabel = "Email"
+  inputEmailPlaceholder = "Your email"
+  inputMsgName = "message"
+  inputMsgLabel = "Your message"
+  inputMsgLength = 750
+  inputSubmitValue = "Send"
+
+[params.hero]
+  textColor = "white"
+
+[params.social]
+  facebook = "https://www.facebook.com/intonalogy/"
+  instagram = "https://www.instagram.com/intonalogy/"
+  youtube = "https://www.youtube.com/channel/UC-k8TTwrfOF_f8hZhZ0aQPw/videos"
+
+[params.copy]
+  copy = "© Copyright 2021, Intonalogy"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = false
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+
+  [markup.goldmark.renderer]
+    unsafe=true
