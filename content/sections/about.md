@@ -9,6 +9,10 @@ weight: 0
   <div>
     <img style="margin: auto; min-width: 22vw;" src="./images/title.png" alt="Intonalogy"><br>
     <h2 style="margin: auto; text-align: center;">Try this new ear training app to begin your quest for tuning superpowers!</h2><br>
+    <div style="display: flex; justify-content: space-around;">
+      <p style="margin-right: 20px; text-indent: 20px; font-style: italic;">"Incredibly helpful! Easy to use for a quick practice session or a longer one. It's helped me work on ear training skills that I knew I wanted to improve on but didn't necessarily know how I could possibly practice. This makes it possible - highly recommend!!" - Julia, 5 star reviewer</p>
+      <p style="text-indent: 20px; font-style: italic;">"About time someone made something like this! Necessary for any serious musician & helpful for all skill levels!" - Tommy, 5 star reviewer</p>
+    </div><br>
     <p style="margin: auto; text-indent: 20px; min-width: 200px; max-width: 70%;">Designed and developed by Dr. Thomas Verrier and <a href="https://maxrandalmusic.com">Max Randal</a> of the Blair School of Music at Vanderbilt University, Intonalogy® provides a precise and fully customizable framework for identifying and correcting tuning problems in chords, scales and melodies, in equal temperament or just intonation. It provides uniquely useful training for any conductor or musician wishing to fine-tune their ear and recognize more perfect intonation, and can be applied as a personal tool or in a classroom setting.</p><br>
     <div style="margin: auto; width: 67%; min-width: 50vw;">{{< youtube ydrJnhyQj4c >}}</div><br>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
