@@ -6,6 +6,11 @@ googleAnalytics = ""
 theme = "terrassa"
 enableRobotsTXT = true
 
+[build.environment]
+  HUGO_VERSION = "0.154.2"
+  HUGO_ENV = "production"
+  TZ = "Europe/Paris"
+
 [params]
   description = "Information about the cross-platform ear training app Intonalogy."
   favicon = "favicon.ico"
