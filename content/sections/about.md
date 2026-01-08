@@ -8,7 +8,7 @@ weight: 0
 <div style= "display: flex;">
   <div>
     <img style="margin: auto; min-width: 22vw;" src="./images/title.png" alt="Intonalogy"><br>
-    <h2 style="margin: auto; text-align: center;">Try this new ear training app to begin your quest for tuning superpowers!</h2><br>
+    <h2 style="margin: auto; text-align: center;">Try this unique ear training app to begin your quest for tuning superpowers!</h2><br>
     <div style="display: flex; justify-content: space-around;">
       <p style="margin-right: 20px; text-indent: 20px; font-style: italic;">"Incredibly helpful! Easy to use for a quick practice session or a longer one. It's helped me work on ear training skills that I knew I wanted to improve on but didn't necessarily know how I could possibly practice. This makes it possible - highly recommend!!" - Julia, 5 star reviewer</p>
       <p style="text-indent: 20px; font-style: italic;">"About time someone made something like this! Necessary for any serious musician & helpful for all skill levels!" - Tommy, 5 star reviewer</p>
@@ -37,7 +37,14 @@ weight: 0
         <p style="text-indent: 20px;">Access the Settings page at any time for dozens of options to customize your experience. Pick from three distinct instrument samples, or randomize the sound of each pitch. Adjust the voicing of the chords to your liking. Select from three stereo modes, including "Pianist" and "Conductor" styles. Choose the set of scales, melodies and chords you want to focus on, including inversions and doubling. Or, let us balance the difficulty  level for you by choosing from one of three available presets.</p>
       </div>
     </div>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+      <div style="flex: 1 1 auto; min-width: 200px; max-width: 50%;">
+        <br><h2 style="font-weight: bold;">Classroom tools</h2>
+        <p style="text-indent: 20px;">The Assignments feature allows instructors to create custom challenges for students and see their scores. With the same customization options as the original app, this has proven to be an innovative and valuable tool for music educators up to the graduate level!</p>
+      </div>
+      <img src="./images/main5.jpg" alt="Detailed feedback" style="height: 422px; width: 200px;">
+    </div>
     <br>
-    <a href="./download" style="display: flex; width: 240px; justify-content: center; margin: auto; color: #00203d; padding: 12px 16px; background-color: #46a4fc; border: none; border-radius: 8px; font-size: 24px; font-weight: bold;">Download Now</a>
+    <a href="./download" style="display: flex; width: 240px; justify-content: center; margin: auto; color: #00203d; padding: 12px 16px; background-color: #46a4fc; border: none; border-radius: 8px; font-size: 24px; font-weight: bold;">Try Now</a>
   </div>
 </div>

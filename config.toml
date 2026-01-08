@@ -38,7 +38,7 @@ enableRobotsTXT = true
   youtube = "https://www.youtube.com/channel/UC-k8TTwrfOF_f8hZhZ0aQPw/videos"
 
 [params.copy]
-  copy = "© Copyright 2021, Intonalogy"
+  copy = "© Copyright 2026, Intonalogy"
 
 [privacy]
   [privacy.googleAnalytics]
